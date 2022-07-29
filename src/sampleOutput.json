@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 37,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Dozens of Ukrainian POWs reported killed in missile strike - Reuters.com",
+    "description": "Dozens of Ukrainian prisoners of war appeared to have been killed in a missile strike on Friday, with Moscow and Kyiv accusing each other of carrying out the attack.",
+    "url": "https://www.reuters.com/world/europe/ukraine-bombs-russian-forces-drive-retake-south-2022-07-28/",
+    "urlToImage": "https://www.reuters.com/resizer/2DN9P9aG6VjhXxb4UUODGnR5TBI=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/STOIPGLV75N3TLUDOJHOVUAT6I.jpg",
+    "publishedAt": "2022-07-29T12:00:00Z",
+    "content": "ODESA/KYIV, July 29 (Reuters) - Dozens of Ukrainian prisoners of war appeared to have been killed in a missile strike on Friday, with Moscow and Kyiv accusing each other of carrying out the attack.\r\n… [+5744 chars]"
+    },
+    {
+    "source": {
+    "id": "cbs-news",
+    "name": "CBS News"
+    },
+    "author": null,
+    "title": "At least 8 dead in wake of flooding, power outages in eastern Kentucky - CBS News",
+    "description": "At least eight people have died as rains unleashed what Kentucky Gov. Andy Beshear described as some of the worst flooding in the state's history.",
+    "url": "https://www.cbsnews.com/news/kentucky-flooding-power-outages-deaths/",
+    "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/07/28/f6acb9f8-51e1-4385-9a61-1d25969066ee/thumbnail/1200x630/6a777099344edccab8b746f8312d1ecd/ap22209567101921.jpg",
+    "publishedAt": "2022-07-29T11:57:00Z",
+    "content": "Rescue workers plucked people off rooftops amid fast-rising water Thursday in central Appalachia, where torrential rains unleashed some of the worst flooding in the state's history, claiming at least… [+6000 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ariane de Vogue, CNN Supreme Court Reporter",
+    "title": "Samuel Alito mocks foreign critics of repealing Roe v. Wade in Rome speech on religious liberty - CNN",
+    "description": "Justice Samuel Alito, appearing for the first time in public since penning the opinion that reversed Roe v. Wade, mocked foreign criticism of the decision during a speech he delivered in Rome.",
+    "url": "https://www.cnn.com/2022/07/28/politics/samuel-alito-religious-liberty-notre-dame-rome/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220728135130-01-alito-rome-summit-super-tease.jpg",
+    "publishedAt": "2022-07-29T11:43:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Ben Morse, CNN",
+    "title": "Arizona Cardinals remove 'independent study' clause from star QB Kyler Murray contract as he calls questions about work ethic 'disrespectful' - CNN",
+    "description": "The Arizona Cardinals announced on Thursday that they have removed the \"independent study\" clause from star quarterback Kyler Murray's contract after he called questions about his work ethic \"disrespectful.\"",
+    "url": "https://www.cnn.com/2022/07/29/sport/kyler-murray-contract-arizona-cardinals-nfl-spt-intl/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220729093114-02-kyler-murray-contract-super-tease.jpg",
+    "publishedAt": "2022-07-29T11:08:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CNBC"
+    },
+    "author": "Jack Stebbins",
+    "title": "Procter & Gamble (PG) Q4 2022 earnings - CNBC",
+    "description": "Procter & Gamble reported mixed results for its fiscal fourth quarter and warned it expects \"significant headwinds\" to persist in its fiscal 2023.",
+    "url": "https://www.cnbc.com/2022/07/29/procter-gamble-pg-q4-2022-earnings.html",
+    "urlToImage": "https://image.cnbcfm.com/api/v1/image/106640903-1596135265212-gettyimages-1262756663-img_2339_20200730113824742.jpeg?v=1650392378&w=1920&h=1080",
+    "publishedAt": "2022-07-29T11:04:57Z",
+    "content": "Procter &amp; Gamble on Friday reported mixed quarterly results as the consumer products giant faced rising commodity costs and warned that it expects \"significant headwinds\" to persist for its fisca… [+1487 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "ESPN"
+    },
+    "author": "Bradford Doolittle, David Schoenfield",
+    "title": "Shohei Ohtani in New York? Juan Soto to St. Louis? The MLB trade deadline deals we'd like to see - ESPN",
+    "description": "Some big names could be on the move as the Aug. 2 trade deadline approaches. We break down the ideal destinations for each.",
+    "url": "https://www.espn.com/mlb/insider/insider/story/_/id/34301870/shohei-ohtani-new-york-juan-soto-st-louis-mlb-trade-deadline-deals-see",
+    "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0728%2Fr1041488_1296x729_16%2D9.jpg",
+    "publishedAt": "2022-07-29T11:02:40Z",
+    "content": "The MLB trade deadline is just days away, and we're all waiting for a Juan Soto blockbuster or another splash that will change the course of the rest of the season -- and beyond.\r\nThere's a big diffe… [+13530 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Taylor Romine, Rob Frehse and Katherine Dillinger, CNN",
+    "title": "With no federal emergency declaration, San Francisco and New York sound alarm on monkeypox - CNN",
+    "description": "While federal officials weigh a nationwide public health emergency declaration around the monkeypox outbreak, San Francisco and New York state began sounding the alarm Thursday.",
+    "url": "https://www.cnn.com/2022/07/28/health/monkeypox-emergency-jurisdictions/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220726141500-monkey-pox-virus-super-tease.jpg",
+    "publishedAt": "2022-07-29T10:52:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NDTV News"
+    },
+    "author": null,
+    "title": "Shakira Faces Call For 8-Year Jail Term In Spain Over Tax Fraud Charge - NDTV",
+    "description": "Prosecutors in Barcelona said Friday that they would seek a prison sentence of more than eight years against global music superstar Shakira, after she rejected a plea deal on accusations of tax fraud.",
+    "url": "https://www.ndtv.com/world-news/shakira-faces-8-year-sentence-in-spain-for-tax-fraud-3205165",
+    "urlToImage": "https://c.ndtvimg.com/2022-02/05dlf3gg_shakira_625x300_02_February_22.jpg",
+    "publishedAt": "2022-07-29T10:45:00Z",
+    "content": "The court will now need to decide on holding a trial and set a date.\r\nBarcelona: Spanish prosecutors said Friday they would seek a prison sentence of more than eight years against global music supers… [+2399 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Jeanna Smialek",
+    "title": "Prices surged in June and pay growth, while brisk, is struggling to keep up. - The New York Times",
+    "description": "The Federal Reserve’s preferred inflation gauge climbed rapidly in June. Wage and benefit gains are fast, too, separate data showed.",
+    "url": "https://www.nytimes.com/live/2022/07/29/business/economy-news-inflation-stocks",
+    "urlToImage": "https://static01.nyt.com/images/2022/07/29/business/29dc-inflation/29dc-inflation-facebookJumbo.jpg",
+    "publishedAt": "2022-07-29T09:40:47Z",
+    "content": "No boom can last forever, even for the technology industrys most affluent companies. Investors punished the biggest tech companies earlier this year, erasing $2 trillion in market value over fears th… [+5776 chars]"
+    },
+    {
+    "source": {
+    "id": "google-news",
+    "name": "Google News"
+    },
+    "author": null,
+    "title": "Inside the secret Manchin-Schumer deal: Dems shocked, GOP feels betrayed - The Hill",
+    "description": null,
+    "url": "https://news.google.com/__i/rss/rd/articles/CBMic2h0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzM1Nzg2ODktaW5zaWRlLXRoZS1zZWNyZXQtbWFuY2hpbi1zY2h1bWVyLWRlYWwtZGVtcy1zaG9ja2VkLWdvcC1mZWVscy1iZXRyYXllZC_SAQA?oc=5",
+    "urlToImage": null,
+    "publishedAt": "2022-07-29T09:23:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "the-verge",
+    "name": "The Verge"
+    },
+    "author": "Jon Porter",
+    "title": "Ben Affleck's Batman will return for Aquaman 2 - The Verge",
+    "description": "Ben Affleck is reprising his role as Batman in the forthcoming Aquaman sequel, Aquaman and the Lost Kingdom. His return was announced by the film’s star Jason Momoa in an Instagram post.",
+    "url": "https://www.theverge.com/2022/7/29/23283439/batfleck-ben-affleck-batman-aquaman-2-jason-momoa",
+    "urlToImage": "https://cdn.vox-cdn.com/thumbor/MIlS_rIYVSy81k44CcWQ4LBT5UE=/0x156:3100x1779/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23909023/516589016.jpg",
+    "publishedAt": "2022-07-29T09:15:48Z",
+    "content": "Affleck was thought to be done with the character\r\nAffleck at the premiere of Batman v Superman.\r\nPhoto by Hector Vivas/LatinContent via Getty Images\r\nBen Affleck is reprising his role as Batman in t… [+1280 chars]"
+    },
+    {
+    "source": {
+    "id": "bloomberg",
+    "name": "Bloomberg"
+    },
+    "author": null,
+    "title": "Euro-Zone Inflation Hits Record, Backing Calls for Larger Hikes - Bloomberg",
+    "description": null,
+    "url": "https://www.bloomberg.com/tosv2.html?vid=&uuid=33327259-0f3e-11ed-8e60-564364576b45&url=L25ld3MvYXJ0aWNsZXMvMjAyMi0wNy0yOS9ldXJvLXpvbmUtaW5mbGF0aW9uLWhpdHMtcmVjb3JkLWJhY2tpbmctY2FsbHMtZm9yLWxhcmdlci1oaWtlcw==",
+    "urlToImage": null,
+    "publishedAt": "2022-07-29T09:00:00Z",
+    "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "PlanetF1"
+    },
+    "author": "Michelle Foster",
+    "title": "Sebastian Vettel names the driver he'd like to succeed him at Aston Martin - PlanetF1",
+    "description": "Sebastian Vettel has named the driver he'd like to have succeed him at Aston Martin....",
+    "url": "https://www.planetf1.com/news/sebastian-vettel-names-driver-succeed-him/",
+    "urlToImage": "https://d3cm515ijfiu6w.cloudfront.net/wp-content/uploads/2021/11/24075025/mick-schumacher-congratulates-sebastian-vettel-planetf1.jpg",
+    "publishedAt": "2022-07-29T08:45:11Z",
+    "content": "Sebastian Vettel has put forward his pick to replace him at Aston Martin, no surprise as the German wants to see Mick Schumacher take his seat.\r\nVettel shocked the paddock on Thursday when, as the sp… [+2360 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "SciTechDaily"
+    },
+    "author": null,
+    "title": "DeepMind AI Powers Major Scientific Breakthrough: AlphaFold Generates 3D View of the Protein Universe - SciTechDaily",
+    "description": "AI-powered predictions of the three-dimensional structures of nearly all cataloged proteins known to science have been made by DeepMind and EMBL’s European Bioinformatics Institute (EMBL-EBI). The catalog is freely and openly available to the scientific commu…",
+    "url": "https://scitechdaily.com/deepmind-ai-powers-major-scientific-breakthrough-alphafold-generates-3d-view-of-the-protein-universe/",
+    "urlToImage": "https://scitechdaily.com/images/Q8W3K0.jpg",
+    "publishedAt": "2022-07-29T08:43:27Z",
+    "content": "AlphaFold predicts the structure of almost every cataloged protein known to science. Credit: Karen Arnott/EMBL-EBI\r\nAI-powered predictions of the three-dimensional structures of nearly all cataloged … [+4891 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Tara Subramaniam",
+    "title": "Giant screen hits dancers for boy band Mirror during Hong Kong concert - CNN",
+    "description": "A back-up dancer for the Cantopop boy band Mirror is in intensive care after being hit by a giant video panel that fell from the ceiling during a concert in Hong Kong.",
+    "url": "https://www.cnn.com/2022/07/29/asia/hong-kong-mirror-group-concert-accident-intl-hnk/index.html",
+    "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220729023938-hong-kong-mirror-concert-fair-use-screengrab.jpg?c=16x9&q=w_800,c_fill",
+    "publishedAt": "2022-07-29T07:45:00Z",
+    "content": "A back-up dancer for the Cantopop boy band Mirror is in intensive care after being hit by a giant video panel that fell from the ceiling during a concert in Hong Kong.\r\nFive people were injured when … [+2107 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "YouTube"
+    },
+    "author": null,
+    "title": "LA couples gets engaged on infamous 6th Street Bridge - FOX 11 Los Angeles",
+    "description": "Since its opening on July 10, the 6th Street Bridge in LA has grabbed attention for all the wrong reasons. The bridge has closed several times due to illegal...",
+    "url": "https://www.youtube.com/watch?v=Ch4R2jaP_j4",
+    "urlToImage": "https://i.ytimg.com/vi/Ch4R2jaP_j4/hqdefault.jpg",
+    "publishedAt": "2022-07-29T05:58:12Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Kristin Wilson and Jessica Dean, CNN",
+    "title": "Jon Stewart and Democrats rail against stalled burn pits legislation: 'This is bullshit' - CNN",
+    "description": "House Speaker Nancy Pelosi, Senate Democrats and comedian and activist Jon Stewart railed against Senate Republicans who voted against legislation to help veterans suffering from ailments related to toxic burn pits, calling it a \"gut punch\" to the veterans wh…",
+    "url": "https://www.cnn.com/2022/07/28/politics/pact-act-burn-pits-jon-stewart/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220728124232-01-jon-stewart-0728-super-tease.jpg",
+    "publishedAt": "2022-07-29T03:38:00Z",
+    "content": "(CNN)House Speaker Nancy Pelosi, Senate Democrats and comedian and activist Jon Stewart railed against Senate Republicans who voted against legislation to help veterans suffering from ailments relate… [+8479 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "The Indianapolis Star"
+    },
+    "author": "Kaitlin Lange",
+    "title": "Indiana Senate shoot down abortion ban without exceptions - IndyStar",
+    "description": "After late-night debate on the amendment, the Indiana Senate voted against a proposal for an abortion ban without exceptions by a 28-18 vote.",
+    "url": "https://www.indystar.com/story/news/politics/2022/07/29/indiana-republicans-shoot-down-abortion-ban-without-exceptions/65380290007/",
+    "urlToImage": "https://www.gannett-cdn.com/presto/2022/07/29/PIND/da7cf6d3-4b52-4d75-8b83-a6b7270ea68e-2022_07_28_Statehouse_MM_26.JPG?crop=1999,1125,x0,y101&width=1999&height=1125&format=pjpg&auto=webp",
+    "publishedAt": "2022-07-29T03:24:21Z",
+    "content": "After a contentious debate that pitted Indiana's Senate Republicans against each other a rare occurrence the Senate voted down a measure late Thursday night that would have nixed exceptions for rape … [+5820 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Eonline.com"
+    },
+    "author": "Kelly Gilmore",
+    "title": "Candace Cameron Bure’s Daughter Natasha Tells JoJo Siwa to \"Grow Up\" in Heated Message - E! NEWS",
+    "description": "Candace Cameron Bure's daughter Natasha Bure shared a strong message for JoJo Siwa after JoJo called Candace the “rudest” celebrity. Read her post on how \"this generation\" has \"no backbone.\"",
+    "url": "https://www.eonline.com/news/1339951/candace-cameron-bures-daughter-natasha-tells-jojo-siwa-to-grow-up-in-heated-message",
+    "urlToImage": "https://akns-images.eonline.com/eol_images/Entire_Site/2022628/rs_1200x1200-220728194212-JoJo-Siwa-Natasha-Bure-and-Candace-Bure-1.jpg?fit=around%7C1080:1080&output-quality=90&crop=1080:1080;center,top",
+    "publishedAt": "2022-07-29T02:44:00Z",
+    "content": "Natasha Bure has come to her mom's defense.\r\nThe 23-year-old, who is daughter to Candace Cameron Bure, took to her Instagram Stories with a fiery message for JoJo Siwa after the dancer posted that Ca… [+922 chars]"
+    },
+    {
+    "source": {
+    "id": "cnn",
+    "name": "CNN"
+    },
+    "author": "Mark Morales, CNN",
+    "title": "Alleged attacker of Rep. Lee Zeldin held in custody following federal court hearing - CNN",
+    "description": "The man accused of attempting to stab New York gubernatorial nominee Rep. Lee Zeldin on stage at a campaign event will not yet be released from custody, a judge determined on Thursday, according to a Department of Justice spokesperson.",
+    "url": "https://www.cnn.com/2022/07/28/politics/lee-zeldin-david-jakubonis-held-federal-court-hearing/index.html",
+    "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220728210951-david-jakubonis-file-072122-super-tease.jpg",
+    "publishedAt": "2022-07-29T02:00:00Z",
+    "content": "(CNN)The man accused of attempting to stab New York gubernatorial nominee Rep. Lee Zeldin on stage at a campaign event will not yet be released from custody, a judge determined on Thursday, according… [+1446 chars]"
+    }
+    ]
+    }
