@@ -12,7 +12,7 @@ export default class NewsItem extends Component {
         <img src={imageUrl?imageUrl:imagePlaceholder} onError={this.errorHandler = (event) => {event.target.src = imagePlaceholder}} className='card-img-top' alt="news" />
         <div className="card-body">
             <h5 className="card-title">{title}</h5>
-            <p className="card-text">{description}</p>
+            <p className="card-text">{description?description:"Desccription is not available. Read this news by clicking on Read more"}</p>
             <p className="card-text"><i><small className="text-muted">by {author} on {new Date(date).toUTCString()}</small></i></p>
             <a href={newsUrl} className="btn btn-primary" target='_blank' rel="noreferrer">Read more...</a>
         </div>
