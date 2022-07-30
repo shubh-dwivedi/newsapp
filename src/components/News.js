@@ -49,7 +49,7 @@ export default class News extends Component {
         totalResults: parsedNewsData.totalResults,
         loading: false,
       });
-    } else this.setState({ errorCode: parsedNewsData.code });
+    } else this.setState({ errorCode: parsedNewsData.code, loading: false });
   }
 
   allArticles = [];
@@ -59,12 +59,13 @@ export default class News extends Component {
       let newsData = await fetch(url);
       let parsedData = await newsData.json();
       this.allArticles = parsedData.articles;
+      this.setState({totalResults: this.allArticles.length});
     }
     this.setState({ loading: true });
     let articleLoaded = [];
     for (let i = 0; i < this.props.pageSize; i++) {
-      if (this.allArticles[this.state.page * this.props.pageSize + i]) {
-        articleLoaded[i] = this.allArticles[this.state.page * this.props.pageSize + i];
+      if (this.allArticles[(this.state.page * this.props.pageSize) + i] !== undefined) {
+        articleLoaded[i] = this.allArticles[(this.state.page * this.props.pageSize) + i];
       }
     }
     this.setState({
@@ -73,7 +74,7 @@ export default class News extends Component {
       loading: false,
     });
   };
-
+  
   render() {
     return (
       <div className="container my-3">
@@ -81,7 +82,9 @@ export default class News extends Component {
           Today's Top Headlines -{" "}
           {this.capitalizeFirstLetter(this.props.category)}
         </h1>
-        {this.loading && <Spinner />}
+        {}
+        {this.state.errorCode === "apiKeyExhausted" || this.state.errorCode === "rateLimited" ? <div><h2>Oops! Server requests limit has been exhausted. Please try after some time.</h2></div> : this.state.loading && <Spinner />}
+        
         <InfiniteScroll
           dataLength={this.state.articles.length}
           next={this.fetchNewsData}
@@ -89,7 +92,7 @@ export default class News extends Component {
           loader={<Spinner />}
           endMessage={
             <p style={{ textAlign: 'center' }}>
-              <b>Yay! You have seen all news headlines</b>
+              <b>Yay! You have read all the news in {this.capitalizeFirstLetter(this.props.category)} category</b>
             </p>}
         >
           <div className="container">
@@ -97,7 +100,7 @@ export default class News extends Component {
             {!this.state.loading &&
               this.state.articles.map((element) => {
                 return (
-                  <div className="col-md-4" key={element.url}>
+                  <div className="col-md-4 col-sm" key={element.url}>
                     <NewsItem
                       title={element.title}
                       description={element.description}
