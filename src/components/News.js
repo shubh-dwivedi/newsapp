@@ -49,7 +49,11 @@ export default class News extends Component {
         totalResults: parsedNewsData.totalResults,
         loading: false,
       });
-    } else this.setState({ errorCode: parsedNewsData.code, loading: false });
+    } else {
+      this.setState({ errorCode: parsedNewsData.code, loading: false });
+      // alert(this.state.errorCode);
+    }
+    
   }
 
   allArticles = [];
@@ -83,7 +87,7 @@ export default class News extends Component {
           {this.capitalizeFirstLetter(this.props.category)}
         </h1>
         {}
-        {this.state.errorCode === "apiKeyExhausted" || this.state.errorCode === "rateLimited" ? <div><h2>Oops! Server requests limit has been exhausted. Please try after some time.</h2></div> : this.state.loading && <Spinner />}
+        {this.state.errorCode === "apiKeyExhausted" || this.state.errorCode === "rateLimited" ? <div className="my-4"><h2>Oops! Server requests limit has been exhausted. Please try after some time.</h2></div> : this.state.loading && <Spinner />}
         
         <InfiniteScroll
           dataLength={this.state.articles.length}
@@ -91,9 +95,9 @@ export default class News extends Component {
           hasMore={this.state.articles.length !== this.state.totalResults}
           loader={<Spinner />}
           endMessage={
-            <p style={{ textAlign: 'center' }}>
+            this.state.errorCode==="" ? !this.state.loading && <p className="my-3" style={{ textAlign: 'center' }}>
               <b>Yay! You have read all the news in {this.capitalizeFirstLetter(this.props.category)} category</b>
-            </p>}
+            </p>:<h4 className="text-center pt-5">Something went wrong 😰 Please try again later...</h4>}
         >
           <div className="container">
           <div className="row">
