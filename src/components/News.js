@@ -81,13 +81,13 @@ export default class News extends Component {
   
   render() {
     return (
-      <div className="container my-3">
+      <div className="container my-3 mt-5 pt-4">
         <h1 className="text-center my-4">
           Today's Top Headlines -{" "}
           {this.capitalizeFirstLetter(this.props.category)}
         </h1>
         {}
-        {this.state.errorCode === "apiKeyExhausted" || this.state.errorCode === "rateLimited" ? <div className="my-4"><h2>Oops! Server requests limit has been exhausted. Please try after some time.</h2></div> : this.state.loading && <Spinner />}
+        {this.state.errorCode === "apiKeyExhausted" || this.state.errorCode === "rateLimited" ? <div className="my-4 text-center"><h2>Oops! Server requests limit has been exhausted. Please try after some time.</h2></div> : this.state.loading && <Spinner />}
         
         <InfiniteScroll
           dataLength={this.state.articles.length}
